@@ -1,0 +1,9 @@
+is_searchable_choice=true
+
+# Used to change a select box searchable. 
+
+  Right click on select box or multiple choice field
+  Configure dictionary
+  Add #"is_searchable_choice=true" on the attribute field along with this attribute
+  #"edge_encryption_enabled=true" which was already existing
+  
