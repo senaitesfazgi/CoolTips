@@ -1,0 +1,7 @@
+Applying a filter on related list
+->Go to list control
+->On list control form, navigate to Configure>Form Layout
+->Add 'Edit default filter' item
+->Click Save
+-> It will start showing filter on List control form.
+-> You may apply conditions on that filter accordingly.
